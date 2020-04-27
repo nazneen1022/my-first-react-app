@@ -12,7 +12,7 @@ function App() {
           React is cool!!
         </p>
         <h1>Hello there!!</h1>
-        <p>I am Nazneen Tabassum.</p>
+        <p>Cool!! my app is online now!!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
